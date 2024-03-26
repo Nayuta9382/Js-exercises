@@ -1,0 +1,11 @@
+h1 ,h2, .btn-dev{
+    text-align: center;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+}
+.name p,.value h2{
+    width: 20%;
+    text-align: center;
+}
